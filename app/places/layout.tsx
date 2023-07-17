@@ -7,6 +7,8 @@ export default function PlacesLayout({
 }) {
   return (
     <div className="block">
+
+      {/* my layout update */}
       {children}
     </div>
   );
